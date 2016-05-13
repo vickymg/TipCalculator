@@ -12,4 +12,4 @@ Open and run in Xcode.
 
 Enter the bill amount, tip percentage and number of people, and hit calculate!
 
-![image of app](http://i.imgur.com/zUtYGZ9.png)
+![image of app](http://i.imgur.com/zUtYGZ9.png?1)
